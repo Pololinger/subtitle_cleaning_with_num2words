@@ -16,7 +16,7 @@
 ##### Run this function to test if the numbers in your text file get recognized correctly.
 
 #### abbreviation()
-##### Assuming you have a data set where abbreviations are capitalized i.e. EU, USA, UEFA – this function takes those abbreviations and puts a sign (default ‘.’) between each letter.
+##### Assuming you have a data set where abbreviations are capitalized i.e. EU, USA, UEFA – this function takes those abbreviations and puts a sign (default = '.') between each letter.
 
 #### toWords() 
 ##### Takes digits and transforms them into written words, you can change the language by passing a different value for the ‘lang’ parameter. Numbers that are noted in video timestamp notation such as  [12:04] get ignored. 
